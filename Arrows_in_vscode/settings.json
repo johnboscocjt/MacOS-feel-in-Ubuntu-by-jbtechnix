@@ -48,7 +48,7 @@
     "mssql.connectionGroups": [
         {
             "name": "ROOT",
-            "id": "E2B70B65-E93D-4805-A778-2ECD38BBC431"
+            "id": "E2B70B65-E93D-4815-A778-2ECD38BBC431"
         }
     ],
     "mssql.connections": [],
